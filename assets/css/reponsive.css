@@ -61,6 +61,7 @@
     grid-template-columns: repeat(2, minmax(320px, 1fr)) !important; /* 2 kolom fix */
     justify-content: center;
     gap: 25px;
+    padding: 0 40px !important;
   }
 
   .contact-text h1 {

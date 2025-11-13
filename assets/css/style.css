@@ -866,7 +866,9 @@ body {
   gap: 30px;
   justify-content: center;
   width: 100%;
-  max-width: 1800px; /* diperbesar biar 3 card muat lebih lebar */
+  max-width: 1600px;
+  padding: 0 60px; /* padding kanan kiri ekstra untuk desktop */
+  box-sizing: border-box;/* diperbesar biar 3 card muat lebih lebar */
 }
 
 /* Card */
