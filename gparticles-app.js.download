@@ -63,7 +63,7 @@ particlesJS('particles-js',
     "line_linked": { "enable": false },
     "move": {
       "enable": true,
-      "speed": 0.8,
+      "speed": 1,
       "direction": "none",
       "random": false,
       "straight": false,
