@@ -331,9 +331,9 @@ lecturersData.forEach((lecturer) => {
       <h3 class="text-lg font-semibold text-white">${lecturer.name}</h3>
       <p class="text-sm text-gray-400 mb-2">${lecturer.title}</p>
       <div class="flex flex-col gap-1 text-sm text-gray-400">
-        <span>📞 ${lecturer.phone}</span>
-        <span>✉️ ${lecturer.email}</span>
-        <span>🆔 NIDN: ${lecturer.nidn}</span>
+        <span><i class="fa-solid fa-phone"></i> ${lecturer.phone}</span>
+        <span><i class="fa-solid fa-envelope"></i> ${lecturer.email}</span>
+        <span><i class="fa-solid fa-school"></i> NIDN: ${lecturer.nidn}</span>
       </div>
     </div>
   `;

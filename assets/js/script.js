@@ -131,7 +131,7 @@ iframe.onload = function () {
     iframe.style.height = doc.body.scrollHeight + "px";
   } catch (err) {
     console.warn(
-      "Tidak bisa akses konten iframe (cross-origin), gunakan scroll default:",
+      "Tidak bisa akses konten iframe",
       err
     );
     iframe.style.height = "800px"; // fallback
