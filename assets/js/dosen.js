@@ -2,7 +2,7 @@ const lecturersData = [
   {
     name: "Ade Andri Hendriadi, S.Si., M.Kom",
     title: "Dosen Sistem Informasi",
-    imageUrl: "assets/images/person.png",
+    imageUrl: "/dosen/dosen/assets/images/person.png",
     phone: "081214992479",
     email: "hendriadi@unsika.ac.id",
     nidn: "0402047903",
@@ -10,7 +10,7 @@ const lecturersData = [
   {
     name: "Apriade Voutama, M.Kom.",
     title: "Dosen Sistem Informasi",
-    imageUrl: "assets/images/person.png",
+    imageUrl: "/dosen/dosen/assets/images/person.png",
     phone: "081261037595",
     email: "apriade.voutama@staff.unsika.ac.id",
     nidn: "0004049401",
@@ -18,7 +18,7 @@ const lecturersData = [
   {
     name: "Azhari Ali Ridha, S.Kom., MMSI.",
     title: "Dosen Sistem Informasi",
-    imageUrl: "assets/images/person.png",
+    imageUrl: "/dosen/dosen/assets/images/person.png",
     phone: "08129341022",
     email: "azhari.ali@unsika.ac.id",
     nidn: "0415098003",
@@ -26,7 +26,7 @@ const lecturersData = [
   {
     name: "H. Bagja Nugraha, ST., M.Kom.",
     title: "Dosen Sistem Informasi",
-    imageUrl: "assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "08568333700",
     email: "bagja.nugraha@staff.unsika.ac.id",
     nidn: "0012108501",
@@ -34,7 +34,7 @@ const lecturersData = [
   {
     name: "Hannie, S.Kom., MMSI.",
     title: "Dosen Sistem Informasi",
-    imageUrl: "assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "083893376009",
     email: "hannie@staff.unsika.ac.id",
     nidn: "0430088205",
@@ -42,7 +42,7 @@ const lecturersData = [
   {
     name: "Nina Sulistiyowati, S.T., M.Kom.",
     title: "Dosen Sistem Informasi",
-    imageUrl: "assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "081221811122",
     email: "nina.sulistiyowati@unsika.ac.id",
     nidn: "000902830",
@@ -50,7 +50,7 @@ const lecturersData = [
   {
     name: "Nono Heryana, M.Kom.",
     title: "Dosen Sistem Informasi",
-    imageUrl: "assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "0816795221",
     email: "nono@unsika.ac.id",
     nidn: "0003038905",
@@ -58,7 +58,7 @@ const lecturersData = [
   {
     name: "Siska, M.Kom.",
     title: "Dosen Sistem Informasi",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "087879063310",
     email: "siska@staff.unsika.ac.id",
     nidn: "0030109004",
@@ -66,7 +66,7 @@ const lecturersData = [
   {
     name: "Taufik Ridwan, S.T., M.T.",
     title: "Dosen Sistem Informasi",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "085774650670",
     email: "taufik.ridwan@cs.unsika.ac.id",
     nidn: "0006079201",
@@ -74,7 +74,7 @@ const lecturersData = [
   {
     name: "Adhi Rizal, MT.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "085224502300",
     email: "adhi.rizal@staff.unsika.ac.id",
     nidn: "0007089101",
@@ -82,7 +82,7 @@ const lecturersData = [
   {
     name: "Agung Susilo Yuda Irawan, M.Kom.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "087744361661",
     email: "agung@unsika.ac.id",
     nidn: "0015069302",
@@ -90,7 +90,7 @@ const lecturersData = [
   {
     name: "Aji Primajaya, S.Si., M.Kom.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "081331718961",
     email: "aji.primajaya@staff.unsika.ac.id",
     nidn: "0026048706",
@@ -98,7 +98,7 @@ const lecturersData = [
   {
     name: "Aries Suharso, S.Si., M.Kom.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "081280722269",
     email: "aries.suharso@staff.unsika.ac.id",
     nidn: "0422037701",
@@ -106,7 +106,7 @@ const lecturersData = [
   {
     name: "Arip Solehudin, M.Kom.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "085794726601",
     email: "arip.solehudin@unsika.ac.id",
     nidn: "0016048902",
@@ -114,7 +114,7 @@ const lecturersData = [
   {
     name: "Asep Jamaludin, S.Si., M.Kom.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "081910201165",
     email: "asep.jamaludin@staff.unsika.ac.id",
     nidn: "0010017606",
@@ -122,7 +122,7 @@ const lecturersData = [
   {
     name: "Betha Nurina Sari, M.Kom.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "081553031989",
     email: "betha.nurina@staff.unsika.ac.id",
     nidn: "0023108901",
@@ -130,7 +130,7 @@ const lecturersData = [
   {
     name: "Adhi Rizal, MT.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "085224502300",
     email: "adhi.rizal@staff.unsika.ac.id",
     nidn: "0007089101",
@@ -138,7 +138,7 @@ const lecturersData = [
   {
     name: "Budi Arif Dermawan, M.Kom.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "085716061430",
     email: "budi.arif@staff.unsika.ac.id",
     nidn: "0008019004",
@@ -146,7 +146,7 @@ const lecturersData = [
   {
     name: "Carudin, M.Kom.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "085959592431",
     email: "carudin@staff.unsika.ac.id",
     nidn: "0013048804",
@@ -154,7 +154,7 @@ const lecturersData = [
   {
     name: "Chaerur Rozikin, M.Kom.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "081514329822",
     email: "chaerur.rozikin@staff.unsika.ac.id",
     nidn: "0020058305",
@@ -162,7 +162,7 @@ const lecturersData = [
   {
     name: "Dadang Yusup, M.Kom.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "089682725470",
     email: "dadang.dyf@staff.unsika.ac.id",
     nidn: "0424048202",
@@ -170,7 +170,7 @@ const lecturersData = [
   {
     name: "Didi Juardi, S.T., M.Kom.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "082298234234",
     email: "didi.juardi@staff.unsika.ac.id",
     nidn: "0422047101",
@@ -178,7 +178,7 @@ const lecturersData = [
   {
     name: "E. Haodudin Nurkifli, S.T., M.Cs.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "08999171682",
     email: "dudi.nurkifli@staff.unsika.ac.id",
     nidn: "0003048503",
@@ -186,7 +186,7 @@ const lecturersData = [
   {
     name: "Garno, M.Kom.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "085718333773",
     email: "garno@staff.unsika.ac.id",
     nidn: "0029017806",
@@ -194,7 +194,7 @@ const lecturersData = [
   {
     name: "Intan Purnamasari, M.Kom.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "082124472112",
     email: "intan.purnamasari@staff.unsika.ac.id",
     nidn: "0006029201",
@@ -202,7 +202,7 @@ const lecturersData = [
   {
     name: "Iqbal Maulana, S.Si., M.Sc.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "089631173316",
     email: "iqbal.maulana@staff.unsika.ac.id ",
     nidn: "0012029105",
@@ -210,7 +210,7 @@ const lecturersData = [
   {
     name: "Jajam Haerul Jaman, S.E., M.Kom.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "081585339743",
     email: "jajam.haeruljaman@staff.unsika.ac.id",
     nidn: "0010117808",
@@ -218,7 +218,7 @@ const lecturersData = [
   {
     name: "Kamal Prihandani, M.Kom.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "081324369646",
     email: "kamal.prihandani@unsika.ac.id",
     nidn: "0002069106",
@@ -226,7 +226,7 @@ const lecturersData = [
   {
     name: "M. Jajuli, M.Si.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "081213004170",
     email: "mohamad.jajuli@unsika.ac.id",
     nidn: "0404128701",
@@ -234,7 +234,7 @@ const lecturersData = [
   {
     name: "Oman Komarudin, S.Si., M.Kom.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "081212073393",
     email: "oman@unsika.ac.id",
     nidn: "0406047702",
@@ -242,7 +242,7 @@ const lecturersData = [
   {
     name: "Purwantoro, M.Kom.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "085885637201",
     email: "purwantoro.masbro@staff.unsika.ac.id",
     nidn: "0408117702",
@@ -250,7 +250,7 @@ const lecturersData = [
   {
     name: "Rini Mayasari, M.Kom.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "08561082077",
     email: "rini.mayasari@staff.unsika.ac.id ",
     nidn: "0028059101",
@@ -258,7 +258,7 @@ const lecturersData = [
   {
     name: "Riza Ibnu Adam, M.Si.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "085693194986",
     email: "riza.adam@staff.unsika.ac.id",
     nidn: "0006119002",
@@ -266,7 +266,7 @@ const lecturersData = [
   {
     name: "Sofi Defiyanti, M.Kom.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "083899671007",
     email: "sofi.defiyanti@unsika.ac.id",
     nidn: "0413128502",
@@ -274,7 +274,7 @@ const lecturersData = [
   {
     name: "Susilawati, M.Si.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "085624438817",
     email: "susilawati.sobur@staff.unsika.ac.id ",
     nidn: "0018019002",
@@ -282,7 +282,7 @@ const lecturersData = [
   {
     name: "Tesa Nur Padilah, S.Si., M.Sc.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "085223259209",
     email: "tesa.nurpadilah@staff.unsika.ac.id",
     nidn: "0019109001",
@@ -290,7 +290,7 @@ const lecturersData = [
   {
     name: "Ultach Enri, M.Kom.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "081310013194",
     email: "ultach@staff.unsika.ac.id",
     nidn: "0001018108",
@@ -298,7 +298,7 @@ const lecturersData = [
   {
     name: "Yuyun Umaidah, M.Kom.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "081213565469",
     email: "yuyun.umaidah@staff.unsika.ac.id",
     nidn: "0005088303",
@@ -306,7 +306,7 @@ const lecturersData = [
   {
     name: "Ratna Mufidah, M.Kom.",
     title: "Dosen Informatika",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "/dosen/assets/images/person.png",
     phone: "08179643172",
     email: "ratna.mufidah@cs.unsika.ac.id",
     nidn: "0004068708",
