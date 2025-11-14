@@ -2,7 +2,7 @@ const lecturersData = [
   {
     name: "Ade Andri Hendriadi, S.Si., M.Kom",
     title: "Dosen Sistem Informasi",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "assets/images/person.png",
     phone: "081214992479",
     email: "hendriadi@unsika.ac.id",
     nidn: "0402047903",
@@ -10,7 +10,7 @@ const lecturersData = [
   {
     name: "Apriade Voutama, M.Kom.",
     title: "Dosen Sistem Informasi",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "assets/images/person.png",
     phone: "081261037595",
     email: "apriade.voutama@staff.unsika.ac.id",
     nidn: "0004049401",
@@ -18,7 +18,7 @@ const lecturersData = [
   {
     name: "Azhari Ali Ridha, S.Kom., MMSI.",
     title: "Dosen Sistem Informasi",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "assets/images/person.png",
     phone: "08129341022",
     email: "azhari.ali@unsika.ac.id",
     nidn: "0415098003",
@@ -26,7 +26,7 @@ const lecturersData = [
   {
     name: "H. Bagja Nugraha, ST., M.Kom.",
     title: "Dosen Sistem Informasi",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "assets/images/person.png",
     phone: "08568333700",
     email: "bagja.nugraha@staff.unsika.ac.id",
     nidn: "0012108501",
@@ -34,7 +34,7 @@ const lecturersData = [
   {
     name: "Hannie, S.Kom., MMSI.",
     title: "Dosen Sistem Informasi",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "assets/images/person.png",
     phone: "083893376009",
     email: "hannie@staff.unsika.ac.id",
     nidn: "0430088205",
@@ -42,7 +42,7 @@ const lecturersData = [
   {
     name: "Nina Sulistiyowati, S.T., M.Kom.",
     title: "Dosen Sistem Informasi",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "assets/images/person.png",
     phone: "081221811122",
     email: "nina.sulistiyowati@unsika.ac.id",
     nidn: "000902830",
@@ -50,7 +50,7 @@ const lecturersData = [
   {
     name: "Nono Heryana, M.Kom.",
     title: "Dosen Sistem Informasi",
-    imageUrl: "/assets/images/person.png",
+    imageUrl: "assets/images/person.png",
     phone: "0816795221",
     email: "nono@unsika.ac.id",
     nidn: "0003038905",
